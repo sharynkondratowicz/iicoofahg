@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naekiuchu.calenchung.design/sitemap.xml
